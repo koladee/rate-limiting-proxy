@@ -93,6 +93,8 @@ npm test
 
 ## **API Endpoints**  
 
+[POSTMAN DOCUMENTATION LINK](https://documenter.getpostman.com/view/40845952/2sAYJAexdW)
+
 ### **1. User Management**
 
 #### **Register User**  
